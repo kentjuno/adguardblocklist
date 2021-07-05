@@ -1,0 +1,7 @@
+[Adguard Block 1.0]
+
+! Title: list block from CLD
+
+! ---------- Generic Blocking Rules ----------
+||www.peterwolfing.com
+||peterwolfing.com
