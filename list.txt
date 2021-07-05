@@ -14,3 +14,4 @@
 ||*.taoweb.xyz$all
 ||garena-ff-member.com/*$all
 ||*.hackvn.pro$all
+||momo.vn$all
