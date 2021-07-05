@@ -12,3 +12,4 @@
 ||www.naptheminiworld.xyz$all
 ||thienlong-phucsinh.com$all
 ||*.taoweb.xyz$all
+||garena-ff-member.com/*$all
