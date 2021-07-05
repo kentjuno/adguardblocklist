@@ -13,3 +13,4 @@
 ||thienlong-phucsinh.com$all
 ||*.taoweb.xyz$all
 ||garena-ff-member.com/*$all
+||*.hackvn.pro$all
