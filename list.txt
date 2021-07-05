@@ -5,3 +5,4 @@
 ! ---------- Generic Blocking Rules ----------
 ||www.peterwolfing.com
 ||peterwolfing.com
+||pi.xahrj.com
