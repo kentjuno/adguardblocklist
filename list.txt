@@ -11,3 +11,4 @@
 ||1.246.222.138$all
 ||www.naptheminiworld.xyz$all
 ||thienlong-phucsinh.com$all
+||*.taoweb.xyz$all
