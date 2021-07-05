@@ -1,9 +1,9 @@
 ! Title: Online Malicious URL Blocklist (AdGuard)
 ! Updated: Mon, 05 Jul 2021 00:09:26 +0000
 ! Expires: 1 day (update frequency)
-! Homepage: https://gitlab.com/curben/urlhaus-filter
-! License: https://gitlab.com/curben/urlhaus-filter#license
-! Source: https://urlhaus.abuse.ch/api/
+! Homepage: https:chongluadao.vn
+! License: https:chongluadao.vn
+! Source: https:chongluadao.vn
 ! ---------- Generic Blocking Rules ----------
 ||www.peterwolfing.com$all
 ||peterwolfing.com$all
