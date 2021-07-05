@@ -1,21 +1,11 @@
-[Adblock Plus 2.0]
-! Checksum: iEeoLIwWGbGvbOdE44tJpw
-! Version: 202107050807
-! Title: ABPVN List [lehait.net]
-! Last modified: 05 Jul 2021 08:07 UTC+7
-! Expires: 1 days (update frequency)
-!
-! ABPVN List filter
-! Copyright: ABPVN
-! Homepage: https://abpvn.com/
-! License: GPLv3 (https://github.com/abpvn/abpvn/blob/master/LICENSE)
-! Please report any unblocked ads or problems by email or in our fanpage
-! Mọi thắc mắc xin gửi về email hoặc fanpage
-! Email: support@abpvn.com
-! Facebook Fanpage: https://www.facebook.com/abpvn.org
-! Forum: https://voz.vn/t/abpvn-chan-quang-cao-cho-nguoi-viet.25778/
-! Report new issue on github: https://github.com/abpvn/abpvn/issues/new
+! Title: Online Malicious URL Blocklist (AdGuard)
+! Updated: Mon, 05 Jul 2021 00:09:26 +0000
+! Expires: 1 day (update frequency)
+! Homepage: https://gitlab.com/curben/urlhaus-filter
+! License: https://gitlab.com/curben/urlhaus-filter#license
+! Source: https://urlhaus.abuse.ch/api/
 ! ---------- Generic Blocking Rules ----------
 ||www.peterwolfing.com$all
 ||peterwolfing.com$all
 ||pi.xahrj.com$all
+||1.246.222.138$all
